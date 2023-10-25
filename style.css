@@ -5,10 +5,10 @@
                     rgba(0, 0, 0, 0.2)),
                     url('./pizza.jpg');
 
-    /* Set background size to cover the viewport */
+    
     background-size: cover;
 
-    /* Set background position to center */
+    
     background-position: center;
         }
 
